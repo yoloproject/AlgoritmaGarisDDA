@@ -1,0 +1,9 @@
+﻿  DDAOpenGl.cpp
+i:\file yuve\garisddaopengl\garisddaopengl\ddaopengl.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+i:\file yuve\garisddaopengl\garisddaopengl\ddaopengl.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+i:\file yuve\garisddaopengl\garisddaopengl\ddaopengl.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+i:\file yuve\garisddaopengl\garisddaopengl\ddaopengl.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+i:\file yuve\garisddaopengl\garisddaopengl\ddaopengl.cpp(96): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+i:\file yuve\garisddaopengl\garisddaopengl\ddaopengl.cpp(108): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  GarisDDAOpenGl.vcxproj -> I:\File Yuve\GarisDDAOpenGl\Debug\GarisDDAOpenGl.exe
+  GarisDDAOpenGl.vcxproj -> I:\File Yuve\GarisDDAOpenGl\Debug\GarisDDAOpenGl.pdb (Partial PDB)
