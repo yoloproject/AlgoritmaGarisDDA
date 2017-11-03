@@ -21,28 +21,25 @@ y= y1;
 
 ## Penyelesaian Masalah
 1. Perbaikan Looping
-```
-	int iterasi = 0;
-	//perulangan untuk menggambar titik-titik 
-	while (iterasi != steps)
-	{	
-		
-	
-		x += x_inc;
-		y += y_inc;
+``
+int iterasi = 0;
+//perulangan untuk menggambar titik-titik 
+while (iterasi != steps)
+{
+	x += x_inc;
+	y += y_inc;
 
-		iterasi++;
-		glVertex2i(x, y); // gambar 
-	}
+	iterasi++;
+	glVertex2i(x, y); // gambar 
+}
   ```
 2. Perbaikan Steps
   ```
   //hitung steps
-	if (abs(dx) > abs(dy)) {
-		steps = abs(dx);
-		
-	}
-	else steps = abs(dy);
+if (abs(dx) > abs(dy)) {
+	steps = abs(dx);	
+}
+else steps = abs(dy);
 ```
 ## Built With
 * Microsoft Visual Studio Community 2015
