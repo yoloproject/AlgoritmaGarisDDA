@@ -21,7 +21,7 @@ y= y1;
 
 ## Penyelesaian Masalah
 1. Perbaikan Looping
-``
+```
 int iterasi = 0;
 //perulangan untuk menggambar titik-titik 
 while (iterasi != steps)
@@ -32,9 +32,9 @@ while (iterasi != steps)
 	iterasi++;
 	glVertex2i(x, y); // gambar 
 }
-  ```
+```
 2. Perbaikan Steps
-  ```
+```
   //hitung steps
 if (abs(dx) > abs(dy)) {
 	steps = abs(dx);	
