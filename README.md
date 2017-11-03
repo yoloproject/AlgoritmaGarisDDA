@@ -44,6 +44,9 @@ else steps = abs(dy);
 ## Built With
 * Microsoft Visual Studio Community 2015
 
+## Bug
+* [Create issues](https://github.com/yoloproject/AlgoritmaGarisDDA/issues)
+
 ## Contributors
 * [Galang Rambu Anarki](https://dinus.ac.id/mahasiswa/A11.2015.08929)
 * [Muhammad Wahyu Kuncoro](https://dinus.ac.id/mahasiswa/A11.2015.08930)
