@@ -46,12 +46,12 @@ int iterasi = 0;
 	else steps = abs(dy);
 ```
 ## Built With
-1. Microsoft Visual Studio Community 2015
+* Microsoft Visual Studio Community 2015
 
 ## Contributors
-1. Galang Rambu Anarki
-2. Muhammad Wahyu Kuncoro
-3. Rizki Ramadhan Fratama
+* [Galang Rambu Anarki](https://dinus.ac.id/mahasiswa/A11.2015.08929)
+* [Muhammad Wahyu Kuncoro](https://dinus.ac.id/mahasiswa/A11.2015.08930)
+* [Rizki Ramadhan Fratama](https://dinus.ac.id/mahasiswa/A11.2015.08913)
 
 ## License
 The GNU General Public License v3.0
