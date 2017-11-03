@@ -20,10 +20,9 @@ y= y1;
 2. Titik awal harus lebih kecil dari titik akhir
 
 ## Penyelesaian Masalah
-```
 1. Perbaikan Looping
-int iterasi = 0;
-	
+```
+	int iterasi = 0;
 	//perulangan untuk menggambar titik-titik 
 	while (iterasi != steps)
 	{	
@@ -36,8 +35,8 @@ int iterasi = 0;
 		glVertex2i(x, y); // gambar 
 	}
   ```
+2. Perbaikan Steps
   ```
-  2. Perbaikan Steps
   //hitung steps
 	if (abs(dx) > abs(dy)) {
 		steps = abs(dx);
